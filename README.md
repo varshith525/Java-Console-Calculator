@@ -25,3 +25,7 @@ java Calculator
 4. Divide
 5. Exit
 Enter your choice:
+
+## 📸 Screenshot
+
+![Sample Output](screenshot.png)
